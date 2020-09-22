@@ -1,0 +1,20 @@
+
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.AakifahHartley.PineCityZoo"
+    versionCode = "1"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Pine City Zoo</name>
+
+  <description>
+    A Guide to Pine city Zoo.
+  </description>
+
+  <author href="#" email="aakifah.hart@gmail.com">
+      Aakifah Hartley
+  </author>
+
+</widget>
